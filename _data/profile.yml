@@ -34,7 +34,7 @@ education:
   date: Incoming
 - name: South China Normal University
   logo: /assets/images/badges/SCNU.png
-  position: B.E. in Information Engineering & B.A. in English Language and Literature (Minor)
+  position: B.E. in Information Engineering <br> B.A. in English Language and Literature (Minor)
   date: Sep. 2019 - Jun. 2024
 #- name: South China Normal University
 #  logo: /assets/images/badges/SCNU.png
