@@ -5,7 +5,7 @@ navbar_name: "Bangyao Wang's Homepage"
 positions:
 #- name: Position without logo
 - logo: /assets/images/badges/THU.png
-  name: Incoming Ph.D. student in Tsinghua University
+  name: Incoming Ph.D. student at Tsinghua University
 
 email: "BangyaoWang@outlook.com"
 # cv_link: link-to-your-cv-file
@@ -44,11 +44,19 @@ education:
 experience:
 - name: Beijing Institute of Genomics (BGI)
   logo: /assets/images/badges/BGI.png
-  position: Research Intern (Supervised by <a href="https://scholar.google.com/citations?user=XhqLsBAAAAAJ&hl=en">Yong Bai</a>)
+  position: Research Intern and Joint-training Student <br> in Intelligent Algorithm Group (Supervised by <a href="https://scholar.google.com/citations?user=XhqLsBAAAAAJ&hl=en">Yong Bai</a>)
   date: Aug. 2023 - May 2024
 
 awards:
-- name: Top10 student of SCNU (1%)
+- name: <i>Honghu</i> Student of SCNU (Top 10, highest school honor)
   date: 2024
-- name: Outstanding graduates (1%)
+- name: Outstanding Graduates (Top 1%)
   date: 2024
+- name: Outstanding Undergraduate Thesis Award (Top 5%)
+  date: 2024
+- name: National Encouragement scholarship (Top 10%)
+  date: 2020 - 2022
+- name: First Prize in Guangdong <i>Challenge Cup</i> Competition (Leader)
+  date: 2023
+- name: Second Prize in National University Students' Opt-Sci-Tech Competition (Leader)
+  date: 2022
