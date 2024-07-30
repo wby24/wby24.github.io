@@ -44,11 +44,8 @@ education:
  experience:
  - name: Beijing Institute of Genomics (BGI)
    logo: /assets/images/badges/BGI.png
-   position: Research Intern (Supervised by >-
-   <a href="https://scholar.google.com/citations?user=XhqLsBAAAAAJ&hl=en">Yong Bai</a>->
-   )
+   position: Research Intern (Supervised by <a href="https://scholar.google.com/citations?user=XhqLsBAAAAAJ&hl=en">Yong Bai</a>)
    date: Aug. 2023 - May 2024
-
 
 awards:
 - name: Top10 student of SCNU (1%)
