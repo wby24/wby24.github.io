@@ -1,9 +1,9 @@
-primary_name: "Your Name"
+primary_name: "Bangyao Wang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Bangyao Wang's Homepage"
 
 positions:
-- name: Position without logo
+#- name: Position without logo
 - logo: /assets/images/badges/PKU_red.png
   name: B.S., Peking University (2021)
 
