@@ -4,14 +4,14 @@ navbar_name: "Bangyao Wang's Homepage"
 
 positions:
 #- name: Position without logo
-- logo: /assets/images/badges/PKU_red.png
-  name: B.S., Peking University (2021)
+- logo: /assets/images/badges/THU.png
+  name: Incoming Ph.D. student in Tsinghua University
 
 email: "your@email.com"
 # cv_link: link-to-your-cv-file
-gscholar: your_google_scholar_id
-github: your_github_id
-twitter: your_twitter_id
+#gscholar: your_google_scholar_id
+#github: your_github_id
+#twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -23,15 +23,23 @@ short_bio: >-
   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photo/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Welcome to my homepage!
 
 education:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: Ph.D. Student in Data Science and Information Technology
+  date: Sep. 2024 - Now
+- name: South China Normal University
+  logo: /assets/images/badges/SCNU.png
+  position: B.E. in Information Engineering
+  date: Sep. 2019 - Jun. 2024
+- name: South China Normal University
+  logo: /assets/images/badges/SCNU.png
+  position: B.A. in English Language and Literature (Minor)
+  date: Jul. 2020 - Jun. 2024
 
 # experience:
 # - name: Peking University
@@ -41,9 +49,7 @@ education:
 
 
 awards:
-- name: Award Name 2
+- name: Top10 student of SCNU (1%)
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding graduates (1%)
+  date: 2024
