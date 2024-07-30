@@ -19,13 +19,14 @@ email: "BangyaoWang@outlook.com"
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  I'm an incoming Ph.D. student in Lightwave for Intelligence and Telecommunication (LIT) lab at <a href="https://www.tbsi.edu.cn/" target="_blank">Tsinghua-Berkeley Shenzhen Institute (TBSI)</a>, 
+  <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, under the supervision of Asst. Prof. <a href="https://xunguan.github.io/" target="_blank">Xun Guan</a>. 
+  Before that, I received my bachelor's degree in double major from South China Normal University. My current research interest lies in optoelectronic intelligence, with the aim of designing faster 
+  and more effective devices and algorithms for information processing.
 
 portrait_url: /assets/images/photo/portrait.jpg
 portrait_caption: >-
-  Welcome to my homepage!
+  👋Hello! Welcome to my homepage!
 
 education:
 - name: Tsinghua University
