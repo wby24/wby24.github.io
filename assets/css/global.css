@@ -48,7 +48,7 @@ img.lazy {
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 50px 50px;
-    min-height: 80px;
+    min-height: 150px;
 }
 
 .badge-publication {
