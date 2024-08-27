@@ -5,7 +5,7 @@ navbar_name: "Bangyao Wang's Homepage"
 positions:
 #- name: Position without logo
 - logo: /assets/images/badges/THU.png
-  name: Incoming Ph.D. student at Tsinghua University
+  name: Ph.D. student at Tsinghua University
 
 email: "by-wang24@mails.tsinghua.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -19,11 +19,10 @@ email: "by-wang24@mails.tsinghua.edu.cn"
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  👋Hey there! I'm Bangyao Wang, an incoming Ph.D. student in <b>L</b>ightwave for <b>I</b>ntelligence and <b>T</b>elecommunication (<b>LIT</b>) lab at <a href="https://www.tbsi.edu.cn/" target="_blank">Tsinghua-Berkeley Shenzhen Institute (TBSI)</a>, 
+  👋Hey there! I'm Bangyao Wang, a first-year Ph.D. student in <b>L</b>ightwave for <b>I</b>ntelligence and <b>T</b>elecommunication (<b>LIT</b>) lab at <a href="https://www.tbsi.edu.cn/" target="_blank">Tsinghua-Berkeley Shenzhen Institute (TBSI)</a>, 
   <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, under the supervision of Prof. <a href="https://xunguan.github.io/" target="_blank">Xun Guan</a>. 
   Previously, I received my bachelor's degree in double major from South China Normal University.<br><br>
-  My current research interest lies in silicon photonics and optical computing, aiming to design effective 
-  and fast devices or algorithms for information processing.
+  My current research lies in intelligent optoelectronic for information processing and light communication. I'm also interested in the applications of deep learning and optical computing.
 
 portrait_url: /assets/images/photo/portrait.jpg
 portrait_caption: >-
@@ -33,7 +32,7 @@ education:
 - name: Tsinghua University
   logo: /assets/images/badges/THU.png
   position: Ph.D. Student in Data Science and Information Technology
-  date: Incoming
+  date: Aug. 2024 - Now
 - name: South China Normal University
   logo: /assets/images/badges/SCNU.png
   position: B.E. in Information Engineering <br> B.A. in English Language and Literature (Minor)
